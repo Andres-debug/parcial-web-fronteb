@@ -34,7 +34,7 @@ const App = () => {
     <div>
       <nav className="navbar navbar-expand navbar-dark-nav ">
         <Link to={"/"} className="navbar-brand">
-          Proyecto Integrador
+          Parcial Web
         </Link>
         <div className="navbar-nav mr-auto">
           <li className="nav-item">
