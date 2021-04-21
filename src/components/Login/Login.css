@@ -1,0 +1,12 @@
+.button{
+    display:block;
+    margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  background: linear-gradient(90deg, rgb(58, 179, 223) 0%, rgb(56, 115, 225) 100%);
+}
+
+.label-texts{
+color: antiquewhite;
+font-weight: bolder;
+}

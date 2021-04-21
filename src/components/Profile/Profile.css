@@ -1,0 +1,11 @@
+.image{
+    width: 18rem;
+}
+
+.card-box{
+    background:  rgb(43, 92, 182);
+    border: 8px;
+    border-color: black;
+margin: auto;
+width: 18rem;
+}
